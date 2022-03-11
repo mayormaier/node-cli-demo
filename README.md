@@ -10,3 +10,11 @@ Uses a handful of helpful and cool cli packages, like:
 - gradient-string
 - inquirer
 - nanospinner
+
+## Usage
+
+```bash
+npx mayormaier-node-cli-demo
+```
+
+npm package available here [https://www.npmjs.com/package/mayormaier-node-cli-demo](https://www.npmjs.com/package/mayormaier-node-cli-demo)
